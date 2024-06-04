@@ -1,0 +1,19 @@
+.about{
+    margin: 100px auto;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+.about h3{
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+    color: #212EA0;
+    font-weight: 16px;
+}
+.about p{
+    margin-top: 20px;
+    color: #676767;
+    margin-bottom: 15px;
+    font-size: large;
+}
