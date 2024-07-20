@@ -3,6 +3,7 @@ nav{
     /* background: #333; */
     color:#fff;
     padding: 4px 0;
+    cursor: pointer;
     position: fixed;
     top: 0;
     left: 0;
